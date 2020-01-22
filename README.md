@@ -2,7 +2,7 @@
 
 Mentions Crawler is a web application that allows employees/owners of companies to track content written about their company on different platforms like Reddit, Twitter, New York Times, etc.
 
-*** **UPDATE: Now deployed at mentionscrawler.herokuapp.com** ***
+*** **UPDATE: Now deployed [here](https://mentionscrawler.herokuapp.com)** ***
 
 ## Contributors
 
